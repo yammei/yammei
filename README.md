@@ -1,3 +1,5 @@
+<hr>
+
 <b>active projects: </b>
 <ul>
   <li>web scraper: https://github.com/yammei/data-pipeline</li>
