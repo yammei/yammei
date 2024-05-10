@@ -13,5 +13,5 @@
   <li>[12.2023] distributed api server: https://github.com/yammei/rewear/tree/main/Server</li>
   <li>[07.2023] development blog: https://evlmei.dev/</li>
   <li>[05.2023] discord bot: https://github.com/yammei/chat-bot</li>
-  <li>[06.2021] computer automation: https://github.com/yammei/computer-automation</li>
+  <li>[06.2022] computer automation: https://github.com/yammei/computer-automation</li>
 </ul>
