@@ -1,4 +1,4 @@
-<b>currently working on: </b>
+<b>active projects: </b>
 <ul>
   <li>web scraper: https://github.com/yammei/data-pipeline</li>
 </ul>
