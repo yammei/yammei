@@ -1,11 +1,11 @@
-<h4>currently working on: </h4>
+<b>currently working on: </b>
 <ul>
   <li>web scraper: https://github.com/yammei/data-pipeline</li>
 </ul>
 
 <br>
 
-<h4>completed projects:
+<b>completed projects: </b>
 <ul>
   <li>[04.2024] therapist web tools: https://github.com/yammei/web-tools</li>
   <li>[01.2024] react game: https://github.com/yammei/nyeow</li>
