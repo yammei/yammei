@@ -3,7 +3,7 @@
   <li>web scraper: https://github.com/yammei/data-pipeline</li>
 </ul>
 
-<br>
+<hr>
 
 <b>completed projects: </b>
 <ul>
