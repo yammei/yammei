@@ -1,1 +1,1 @@
-embed world NA 2025
+current project: working on web scraper
