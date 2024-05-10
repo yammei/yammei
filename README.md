@@ -1,3 +1,2 @@
 # ❄️
-swe | cs grad | j-rock fan 
-<br> <b>site:<b/> https://evlmei.dev/
+swe | cs grad | <span>j-rock fan<span/>
