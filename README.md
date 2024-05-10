@@ -1,2 +1,3 @@
 # ❄️
-swe based in sf bay area | cs bs @ stanislaus | racing miku fan 
+swe | cs grad | j-rock fan
+site: https://evlmei.dev/
