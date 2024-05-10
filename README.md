@@ -1,2 +1,1 @@
-# "<About/>"
-i love building automations and data management systems 👩‍🔧
+embed world NA 2025
