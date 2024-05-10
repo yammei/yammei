@@ -1,2 +1,2 @@
 # ❄️
-swe | cs grad | <h1>j-rock fan<h1/>
+<p><i>  dev | cs @ stan state  </i></p>
