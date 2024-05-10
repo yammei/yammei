@@ -1,2 +1,2 @@
 # ❄️
-swe | cs grad | <span>j-rock fan<span/>
+swe | cs grad | <span style="color: red">j-rock fan<span/>
