@@ -1,7 +1,11 @@
-currently working on: https://github.com/yammei/data-pipeline
+<h4>currently working on: </h4>
+<ul>
+  <li>web scraper: https://github.com/yammei/data-pipeline</li>
+</ul>
 
 <br>
-<b>completed projects: </b>
+
+<h4>completed projects:
 <ul>
   <li>[04.2024] therapist web tools: https://github.com/yammei/web-tools</li>
   <li>[01.2024] react game: https://github.com/yammei/nyeow</li>
