@@ -2,7 +2,7 @@
 
 <b>active projects: </b>
 <ul>
-  <li><code>[05.2024]</code> <a href="https://github.com/yammei/data-pipeline">web scraper (script)</a></li>
+  <li><code>[05.2024]</code> <a href="https://github.com/yammei/data-pipeline">web scraper & data preprocessor (script)</a></li>
 </ul>
 
 <hr>
