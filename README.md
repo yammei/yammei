@@ -2,14 +2,15 @@
 
 <b>active projects: </b>
 <ul>
+  <li><code>[06.2024]</code> <a href="https://github.com/yammei/yammei.github.io">dev blog v2 framework update (web app)</a></li>
   <li><code>[06.2024]</code> <a href="https://github.com/yammei/mays-menu.git">restaurant sharing platform (ios app)</a></li>
-  <li><code>[06.2024]</code> <a href="https://github.com/yammei/data-pipeline">web scraper & data preprocessor (script)</a></li>
 </ul>
 
 <hr>
 
 <b>completed projects: </b>
 <ul>
+  <li><code>[05.2024]</code> <a href="https://github.com/yammei/data-pipeline">web scraper & data preprocessor (script)</a></li>
   <li><code>[05.2024]</code> <a href="https://github.com/yammei/mcu-voltimeter.git">voltimeter & sensor (firmware)</a></li>
   <li><code>[05.2024]</code> <a href="https://github.com/yammei/data-pipeline">auto ci/cd pipeline (script)</a></li>
   <li><code>[04.2024]</code> <a href="https://github.com/yammei/web-tools">patient assessment tools (desktop app)</a></li>
