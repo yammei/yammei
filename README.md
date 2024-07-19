@@ -7,5 +7,5 @@
 ⊹˚. <b>research interests</b> .𖥔 ݁ ˖
 <ul>
     ✦ energy-efficient computation techniques for deep learning<br>
-    ✦ modeling llm's to reliably cite trusted sources<br>
+    ✦ modeling llm's to cite reliable trusted sources<br>
 </ul>
