@@ -1,5 +1,5 @@
 ⊹˚. <b>developer note</b> .𖥔 ݁ ˖
-<br><i>currently leetcode prepping</i>
+<br><i>back from vacay</i>
 <hr>
 
 ⊹˚. <b>active projects</b> .𖥔 ݁ ˖
