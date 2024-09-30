@@ -1,9 +1,10 @@
-⊹˚. <b>active projects</b> .𖥔 ݁ ˖
+<b>Active Projects</b>
 <ul>
-  ✦ <a href="https://github.com/yammei/convolution.git">cnn framework</a><br>
+  ✦ <a href="https://github.com/yammei/convolution.git">Convolution: An Interpretable CNN Framework.</a><br>
 </ul>
 
-⊹˚. <b>research interests</b> .𖥔 ݁ ˖
+<b>Research Interests</b>
 <ul>
-    ✦ hardware-efficient computation techniques for deep learning<br>
+    ✦ Hardware-efficient deep learning compiler techniques.<br>
+    ✦ Augmention of small proteomic data sets to improve false discovery rates.<br>
 </ul>
