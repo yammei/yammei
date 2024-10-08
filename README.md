@@ -1,6 +1,7 @@
 <b>Active Projects</b>
 <ul>
-  ✦ <a href="https://github.com/yammei/convolution.git">Convolution: An Interpretable CNN Framework.</a><br>
+  ✦ <a href="https://github.com/yammei/model-implementations.git">Resources & Examples of Model Implementations</a><br>
+  ✦ <a href="https://github.com/yammei/convolution.git">intCONV: An Interpretable CNN Framework.</a><br>
 </ul>
 
 <b>Research Interests</b>
