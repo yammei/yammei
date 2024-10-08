@@ -1,3 +1,5 @@
+Hi, I'm May. I build quite literally everything, but I like mathy stuff and electronics.
+
 <b>Active Projects (by priority)</b>
 <ul>
   ✦ <a href="https://github.com/yammei/application-automation.git">JEANNE | Vision Based Automations</a><br>
