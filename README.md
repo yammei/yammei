@@ -1,5 +1,5 @@
 <h3>About</h3>
-Hi, I'm May. I build quite literally everything.
+Hi, I'm Mei I build quite literally everything.
 
 ___
 
