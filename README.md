@@ -5,7 +5,7 @@ ___
 
 <h3>Active Projects (by priority)</h3>
 <ul>
-  ✦ <a href="https://github.com/yammei/application-automation.git">ARIA | ARIMAX Inference Model</a><br>
+  ✦ <a href="https://github.com/yammei/ARIA">ARIA | ARIMAX Inference Model</a><br>
   ✦ <a href="https://github.com/yammei/model-implementations.git">Resources & Examples of Model Implementations</a><br>
   ✦ <a href="https://github.com/yammei/application-automation.git">JEANNE | Vision Based Automations</a><br>
   ✦ <a href="https://github.com/yammei/convolution.git">LUCIA | An Interpretable CNN Framework</a><br>
