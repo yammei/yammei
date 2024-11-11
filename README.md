@@ -1,9 +1,6 @@
 <h3>About</h3>
 Hi, I'm Mei I build quite literally everything.<br><br>
 
-Resume: [Mei_Zhang_Resume.pdf](https://github.com/yammei/resume/blob/main/Mei_Zhang_Resume.pdf) 
-<sup>_(Last Updated: 10.28.2024)_</sup>
-
 ___
 
 <h3>Active Projects (by priority)</h3>
