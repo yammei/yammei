@@ -1,1 +1,1 @@
-i build things
+i read manga & build things
